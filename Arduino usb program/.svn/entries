@@ -1,0 +1,42 @@
+10
+
+dir
+0
+https://github.com/Fialhon/Ehube/Arduino%20usb%20program
+https://github.com/Fialhon/Ehube
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+74b48915-2ab8-a351-ce62-ce57b7db7bff
+
+nokia.h
+file
+
+
+
+add
+
+usb_nokia.pde
+file
+
+
+
+add
+
